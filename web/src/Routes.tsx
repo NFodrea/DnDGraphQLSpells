@@ -4,7 +4,7 @@ import  LoginView from './modules/user/LoginView';
 import  RegisterView  from './modules/user/RegisterView';
 import  TestView  from './modules/user/TestView';
 
-export class Routes extends React.PureComponent {
+export class Routes extends React.Component {
     render() {
         return (
             <BrowserRouter>

@@ -2,7 +2,7 @@ import * as React from 'react'
 import Button from '@material-ui/core/Button';
 
 
-class LoginView extends React.PureComponent {
+class LoginView extends React.Component {
   render() {
     return (
       <div>
