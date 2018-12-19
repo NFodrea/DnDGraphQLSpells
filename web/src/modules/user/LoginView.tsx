@@ -64,7 +64,7 @@ export default class LoginView extends React.Component<RouteComponentProps<{}>> 
                     variables: this.state
                   });
                   console.log(response);
-                  this.props.history.push('/test');
+                  this.props.history.push('/account');
                 }}
               >
                 Login

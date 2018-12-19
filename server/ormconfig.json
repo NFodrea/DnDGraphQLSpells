@@ -4,7 +4,7 @@
    "port": 5432,
    "username": "postgres",
    "password": "",
-   "database": "graphql-boiler-v2",
+   "database": "dndSpells",
    "synchronize": true,
    "logging": false,
    "entities": [
